@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.KalkulatorMudah" parent="Theme.MaterialComponents.DayNight.NoActionBar">]
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Font family -->
+        <item name="android:fontFamily">@font/oxygen_bold</item>
+    </style>
+</resources>
